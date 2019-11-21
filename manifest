@@ -1,0 +1,11 @@
+: 1
+name: elelel-sqlite
+version: 0.1.0-a.0.z
+summary: elelel-sqlite C++ library
+license: proprietary
+description-file: README.md
+url: https://example.org/elelel-sqlite
+email: jlamotte@softbankrobotics.com
+depends: * build2 >= 0.12.0
+depends: * bpkg >= 0.12.0
+#depends: libhello ^1.0.0

@@ -1,0 +1,3 @@
+import libs = elelel-sqlite%lib{elelel-sqlite}
+
+exe{driver}: {hxx ixx txx cxx}{**} $libs testscript{**}

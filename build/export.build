@@ -1,0 +1,6 @@
+$out_root/
+{
+  include elelel-sqlite/
+}
+
+export $out_root/elelel-sqlite/$import.target
